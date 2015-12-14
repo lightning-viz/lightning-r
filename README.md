@@ -201,3 +201,7 @@ Parameters: x     - vector of x coordinates for points
             size  - vector of point size values
             alpha - vector of opacity values for each point
 ```
+
+This library was contributed by [Ermlab](http://ermlab.com/)
+
+![Ermlab](http://ermlab.com/wp-content/uploads/2015/07/logo2.png)
